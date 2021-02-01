@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+button {
+    height: 7vh;
+    width: 40vw;
+    font-size: larger;
+    cursor: pointer;
+    background-color: rgb(168, 168, 168);
+    color: white;
+    border: bisque;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+button:hover {
+    background-color: rgb(36, 35, 35);
+    height: 9vh;
+    width: 50vw;
+    font-size: x-large;
+}
