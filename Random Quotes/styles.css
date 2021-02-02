@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(75, 72, 72);
+}
+
+.cont {
+    height: auto;
+    width: 100vw;
+    width: auto;
+    display: grid;
+    position: relative;
+}
+
+.displayClass {
+    margin: auto;
+    height: 50px;
+}
+
+.displayClass h2 {
+    height: auto;
+    width: auto;
+    color: white;
+}
+
+.btnDiv {
+    margin: auto;
+    margin-top: 30px;
+}
+
+.btnDiv button {
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.quoteDiv {
+    margin: auto;
+    margin-top: 30px;
+}
+
+.quoteDiv h2 {
+    color: white;
+    width: auto;
+    height: auto;    
+}
+
+h3 {
+    color: yellow;
+    position: absolute;
+    right: 0;
+    bottom: -50px;    
+}
+

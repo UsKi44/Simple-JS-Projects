@@ -26,3 +26,10 @@ button:hover {
     width: 50vw;
     font-size: x-large;
 }
+
+h2 {
+    position: absolute;
+    margin-top: -100px;
+    font-size: 30px;
+    color: white;
+}
