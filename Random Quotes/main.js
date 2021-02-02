@@ -15,7 +15,7 @@ fetch(API)
 
 setTimeout(() => {
     console.log(quotes)
-},500); // Timeout
+},500); // Timeout 0.5s 
 
 
 //Adding a listener to button 
