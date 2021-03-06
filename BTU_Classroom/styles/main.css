@@ -43,6 +43,10 @@ body {
  
 }
 
+.money:hover {
+    cursor: pointer;
+}
+
 .messages {
     color: white;
     background-color: #777777;
@@ -62,8 +66,18 @@ body {
 
 }
 
+.name:hover {
+    color: white;
+    cursor: pointer;
+}
+
 .langueijUwU {
     color: grey;
     margin-top: 15px;
 
+}
+
+.langueijUwU:hover {
+    color: white;
+    cursor: pointer;
 }
