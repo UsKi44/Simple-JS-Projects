@@ -1,3 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Brygada 1918', serif;
+}
+
 .nav {
-    
+    background-color: #222222;
+    height: 50px;
+    display: flex;
+}
+
+.logo {
+    height: 40px ;
+    padding-left: 40px;
+    padding-top: 5px;
+}
+
+.classroom {
+    color: grey;
+    padding-left: 20px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+
+.money {
+    color: white;
+    background-color: #468847;
+    border-radius: 20px;
+    height: 17px;
+    width: 50px;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: auto; 
+    margin-right: 50px;
+ 
+}
+
+.messages {
+    color: white;
+    background-color: #777777;
+    border-radius: 20px;
+    height: 17px;
+    width: 25px;
+    text-align: center;
+    margin-top: 15px;
+    margin-right: 50px;
+   
+}
+
+.name {
+    color: grey;
+    margin-top: 15px;
+    margin-right: 150px;
+}
+
+.langueijUwU {
+    color: grey;
+    margin-top: 15px;
+    margin-right: 75px;
 }
